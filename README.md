@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 - I'm interested in programming and graphic design.
 
 <br>
-
-----
-
 <br>
 
 ## 📫 Contact with Me :
@@ -50,9 +47,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-----
-
 <br>
 
 ## 👨‍💻 Languages :
@@ -67,9 +61,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-----
-
 <br>
 
   
@@ -78,13 +69,11 @@ Here are some ideas to get you started:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/800px-Visual_Studio_Icon_2019.svg.png" title="Visual-Studio" alt="Visual-Studio" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/800px-PyCharm_Icon.svg.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/736/205/png-transparent-the-qt-company-qt-creator-visual-designer-miscellaneous-text-rectangle.png" title="Qt-Creator" alt="Qt-Creator" width="40" height="40"/>&nbsp;
   <img src="https://netbeans.apache.org/images/apache-netbeans.svg" title="Netbeans" alt="Netbeans" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/800px-Brackets_Icon.svg.png" title="Brackets" alt="Brackets" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons.flaticon.com/png/512/6008/premium/6008504.png?token=exp=1653937114~hmac=21baac0128877e682b535c3612f564b0" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
 </div>
 <br>
-
-----
-
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-ashraf&layout=compact&theme=dark)
