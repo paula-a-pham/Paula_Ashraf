@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 ----
 
 <br>
-
+<div align="center">
+  
 ## :man_technologist: About Me :
 - I'm a student in computer and information science ain shams university.
 - I'm interested in programming and graphic design.
 
+</div>
 <br>
 
 ----
