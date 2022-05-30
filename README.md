@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 <br>
 
 ----
+
 <br>
+
 ### :hammer_and_wrench: Languages :
 
 <div>
