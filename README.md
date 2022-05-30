@@ -74,12 +74,15 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons.flaticon.com/png/512/6008/premium/6008504.png?token=exp=1653937114~hmac=21baac0128877e682b535c3612f564b0" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
+<br>
+<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paula-ashraf&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <br>
 <br>
 
-![paula-ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paula-ashraf&show_icons=true&locale=en&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515)
+![paula ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paula-ashraf&show_icons=true&locale=en&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515)
 
 <br>
 <br>
