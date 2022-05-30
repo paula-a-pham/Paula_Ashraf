@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+
 <div id="header" align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/1688/1688451.png" width="100"/>
 </div>
+
+----
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -30,12 +34,16 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+----
+
 ### :man_technologist: About Me :
 I'm Paula Ashraf Famm
 -:I'm a student in computer and information science ain shams university.
 -:I'm interested in programming and graphic design.
 
-### :hammer_and_wrench: Languages and Tools :
+<br>
+
+### :hammer_and_wrench: Languages :
 
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -46,7 +54,9 @@ I'm Paula Ashraf Famm
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="Java-Script" alt="Java-Script" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+<br>
+
+### :hammer_and_wrench: Tools :
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/800px-Visual_Studio_Icon_2019.svg.png" title="Visual-Studio" alt="Visual-Studio" width="40" height="40"/>&nbsp;
