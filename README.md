@@ -74,6 +74,9 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons.flaticon.com/png/512/6008/premium/6008504.png?token=exp=1653937114~hmac=21baac0128877e682b535c3612f564b0" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-ashraf)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
 
