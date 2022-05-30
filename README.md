@@ -49,7 +49,7 @@ I'm Paula Ashraf Famm
 -:I'm interested in programming and graphic design.
 
 <br>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
