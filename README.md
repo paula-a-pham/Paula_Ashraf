@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 <br>
   
-## :about: About Me :
+## ℹ️ About Me :
 - I'm a student in computer and information science ain shams university.
 - I'm interested in programming and graphic design.
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## :hammer_and_wrench: Languages :
+## 👨‍💻 Languages :
 
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
