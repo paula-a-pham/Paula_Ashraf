@@ -20,9 +20,13 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons-png.flaticon.com/512/1688/1688451.png" width="100"/>
 </div>
 
+<br>
+
 ----
 
-<div id="badges">
+<br>
+
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -34,12 +38,20 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<br>
+
 ----
+
+<br>
 
 ### :man_technologist: About Me :
 I'm Paula Ashraf Famm
 -:I'm a student in computer and information science ain shams university.
 -:I'm interested in programming and graphic design.
+
+<br>
+
+----
 
 <br>
 
@@ -56,6 +68,10 @@ I'm Paula Ashraf Famm
 
 <br>
 
+----
+
+<br>
+
 ### :hammer_and_wrench: Tools :
 
 <div>
@@ -65,5 +81,11 @@ I'm Paula Ashraf Famm
   <img src="https://netbeans.apache.org/images/apache-netbeans.svg" title="Netbeans" alt="Netbeans" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/800px-Brackets_Icon.svg.png" title="Brackets" alt="Brackets" width="40" height="40"/>&nbsp;
 </div>
+
+<br>
+
+----
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-ashraf&layout=compact&theme=dark)
