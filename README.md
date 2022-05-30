@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/800px-Visual_Studio_Icon_2019.svg.png" title="Visual-Studio" alt="Visual-Studio" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/800px-PyCharm_Icon.svg.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/794/1022/png-transparent-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-rectangle.png" title="Qt-Creator" alt="Qt-Creator" width="40" height="40"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/794/1022/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-thumbnail.png" title="Qt-Creator" alt="Qt-Creator" width="40" height="40"/>&nbsp;
   <img src="https://netbeans.apache.org/images/apache-netbeans.svg" title="Netbeans" alt="Netbeans" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/800px-Brackets_Icon.svg.png" title="Brackets" alt="Brackets" width="40" height="40"/>&nbsp;
 </div>
