@@ -27,13 +27,13 @@ Here are some ideas to get you started:
     <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653934147~hmac=7b8931e024a1b8f0446cd65b4d713ff8" alt="Linkedin" width="30" height="30"/>
   </a>&nbsp;
   <a href="https://www.facebook.com/paulaashraffamm/">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" height="30"/>
   </a>&nbsp;
   <a href="mailto:paulaashraffamm@gmail.com">
-    <img src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1653934300~hmac=49e5faa73af93a7a4b45234eb95fb4fc" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1653934300~hmac=49e5faa73af93a7a4b45234eb95fb4fc" alt="Gmail" width="30" height="30"/>
   </a>&nbsp;
   <a href="mailto:paulaashraffamm@outlook.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" width="30" height="30"/>
   </a>
 </div>
 
