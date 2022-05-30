@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 <br>
 
-### :man_technologist: About Me :
-I'm Paula Ashraf Famm
--:I'm a student in computer and information science ain shams university.
--:I'm interested in programming and graphic design.
+## :man_technologist: About Me :
+###I'm Paula Ashraf Famm
+- :I'm a student in computer and information science ain shams university.
+- :I'm interested in programming and graphic design.
 
 <br>
 - :: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
