@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1I52sDoMxEbZ2dR_7jFsQq1ZpH7gnKmYc/view?usp=sharing" width="100"/>
+  <img src="https://www.dropbox.com/s/3ldic08ew3ib224/profile.png?dl=0" width="100"/>
 </div>
