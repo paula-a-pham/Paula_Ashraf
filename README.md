@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi every one 👋
 
 <!--
 **paula-ashraf/Paula-Ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1688/1688451.png" width="100"/>
 </div>
 
 <div id="badges">
@@ -41,8 +41,8 @@ I'm Paula Ashraf Famm
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" title="Html-5" alt="Html-5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="Css" alt="Css" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="Html-5" alt="Html-5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="Css" alt="Css" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="Java-Script" alt="Java-Script" width="40" height="40"/>&nbsp;
 </div>
 
