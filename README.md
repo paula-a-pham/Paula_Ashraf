@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 ## 📫 Contact with Me :
 <div id="badges">
+  - Linkedin : 
   <a href="https://www.linkedin.com/in/paula-ashraf-509640240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf4tvNje%2BT8qwadY%2FK2uMTg%3D%3D">
     <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653934147~hmac=7b8931e024a1b8f0446cd65b4d713ff8" alt="Linkedin" width="30" height="30"/>
   </a>&nbsp;
