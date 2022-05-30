@@ -25,17 +25,14 @@ Here are some ideas to get you started:
 ----
 
 <br>
-<div align="center">
 ## :man_technologist: About Me :
 - I'm a student in computer and information science ain shams university.
 - I'm interested in programming and graphic design.
-</div>
 <br>
 
 ----
 
 <br>
-<div align="center">
 ## :man_technologist: Contact with Me :
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/paula-ashraf-509640240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf4tvNje%2BT8qwadY%2FK2uMTg%3D%3D">
@@ -51,13 +48,11 @@ Here are some ideas to get you started:
     <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" width="30" height="30"/>
   </a>
 </div>
-</div>
 
 <br>
 
 ----
 <br>
-<div align="center">
 ### :hammer_and_wrench: Languages :
 
 <div>
@@ -68,7 +63,6 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="Css" alt="Css" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="Java-Script" alt="Java-Script" width="40" height="40"/>&nbsp;
 </div>
-</div>
 
 <br>
 
@@ -76,7 +70,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="center">
   
 ### :hammer_and_wrench: Tools :
 
@@ -87,12 +80,9 @@ Here are some ideas to get you started:
   <img src="https://netbeans.apache.org/images/apache-netbeans.svg" title="Netbeans" alt="Netbeans" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/800px-Brackets_Icon.svg.png" title="Brackets" alt="Brackets" width="40" height="40"/>&nbsp;
 </div>
-</div>
 <br>
 
 ----
 
 <br>
-<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-ashraf&layout=compact&theme=dark)
-</div>
