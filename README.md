@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 ## :man_technologist: About Me :
 - I'm a student in computer and information science ain shams university.
 - I'm interested in programming and graphic design.
+
 <br>
 
 ----
 
 <br>
+
 ## :man_technologist: Contact with Me :
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/paula-ashraf-509640240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf4tvNje%2BT8qwadY%2FK2uMTg%3D%3D">
