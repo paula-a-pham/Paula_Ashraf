@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### :hammer_and_wrench: Languages :
+## :hammer_and_wrench: Languages :
 
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
