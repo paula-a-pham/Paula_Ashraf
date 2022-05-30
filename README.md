@@ -73,6 +73,12 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/800px-Brackets_Icon.svg.png" title="Brackets" alt="Brackets" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn-icons.flaticon.com/png/512/6008/premium/6008504.png?token=exp=1653937114~hmac=21baac0128877e682b535c3612f564b0" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;&nbsp;
 </div>
+
+<br>
+<br>
+
+![paula-ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paula-ashraf&show_icons=true&locale=en&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515)
+
 <br>
 <br>
 
