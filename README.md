@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/800px-PyCharm_Icon.svg.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://netbeans.apache.org/images/apache-netbeans.svg" title="Netbeans" alt="Netbeans" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/800px-Brackets_Icon.svg.png" title="Brackets" alt="Brackets" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons.flaticon.com/png/512/6008/premium/6008504.png?token=exp=1653937114~hmac=21baac0128877e682b535c3612f564b0" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/7207/7207841.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
 <br>
