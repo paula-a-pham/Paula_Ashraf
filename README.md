@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 ## 📫 Contact with Me :
 <div id="badges">
   <a href="https://www.linkedin.com/in/paula-ashraf-509640240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf4tvNje%2BT8qwadY%2FK2uMTg%3D%3D">
-    <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653934147~hmac=7b8931e024a1b8f0446cd65b4d713ff8" alt="Linkedin" width="30" height="30"/>
+    <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1654084018~hmac=255a34d619dad02c44d98500c03a0729" alt="Linkedin" width="30" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/paulaashraffamm/">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:paulaashraffamm@gmail.com">
-    <img src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1653934300~hmac=49e5faa73af93a7a4b45234eb95fb4fc" alt="Gmail" width="30" height="30"/>
+    <img src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1654084052~hmac=4d5ea0e8aca9934d4b5e5d3e2971969d" alt="Gmail" width="30" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:paulaashraffamm@outlook.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" width="30" height="30"/>
