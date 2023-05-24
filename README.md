@@ -88,3 +88,6 @@ Here are some ideas to get you started:
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-a-pham&layout=compact&theme=dark)
+<br>
+<br>
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=paula-a-pham&theme=dark)
