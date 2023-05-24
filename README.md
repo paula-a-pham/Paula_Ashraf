@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![paula ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paula-ashraf&show_icons=true&locale=en&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515)
+![paula-a-pham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paula-a-pham&show_icons=true&locale=en&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515)
 
 <br>
 <br>
