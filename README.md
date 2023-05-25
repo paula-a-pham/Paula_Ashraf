@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 📫 Contact with Me :
 <div id="badges">
   <a href="https://www.linkedin.com/in/paula-ashraf-509640240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf4tvNje%2BT8qwadY%2FK2uMTg%3D%3D" target="_blank">
-    <img src="[![image](https://github.com/paula-a-pham/Paula-Ashraf/assets/106534137/5c63c656-cbfb-483c-addb-2c1c32dd93bb)](https://icons8.com/icon/13930/linkedin)" alt="Linkedin" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=512&id=13930&format=png" alt="Linkedin" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   
   <a href="mailto:paula.a.pham@gmail.com" target="_blank">
