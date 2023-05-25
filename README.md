@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
   
 ## ℹ️ About Me :
 - I'm a student in computer and information science ain shams university.
 - I'm interested in programming and graphic design.
 
-<br>
 <br>
 
 ## 📫 Contact with Me :
@@ -37,20 +35,22 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
   
   <a href="mailto:paula.a.pham@gmail.com" target="_blank">
-    <img src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1654084052~hmac=4d5ea0e8aca9934d4b5e5d3e2971969d" alt="Gmail" width="30" height="30"/>
+    <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="Gmail" width="30" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:paula.a.pham@outlook.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" width="30" height="30"/>
+    <img src="https://img.icons8.com/?size=512&id=117562&format=png" alt="Outlook" width="30" height="30"/>
   </a>
 </div>
 
-<br>
 <br>
 
 ## 👨‍💻 Languages :
 
 <div>
+  <img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=55251&format=png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="Html-5" alt="Html-5" width="40" height="40"/>&nbsp;&nbsp;
@@ -59,13 +59,14 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
 
   
 ## :hammer_and_wrench: Tools :
 
 <div>
+  <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" title="Visual-Studio-Code" alt="Visual-Studio-Code" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/800px-Visual_Studio_Icon_2019.svg.png" title="Visual-Studio" alt="Visual-Studio" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=04OFrkjznvcd&format=png" title="Android-Studio" alt="Android-Studio" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/800px-PyCharm_Icon.svg.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://netbeans.apache.org/images/apache-netbeans.svg" title="Netbeans" alt="Netbeans" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/800px-Brackets_Icon.svg.png" title="Brackets" alt="Brackets" width="40" height="40"/>&nbsp;&nbsp;
@@ -73,16 +74,13 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paula-ashraf&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paula-a-pham&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<br>
 <br>
 
 ![paula-a-pham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paula-a-pham&show_icons=true&locale=en&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515)
 
-<br>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-a-pham&layout=compact&theme=dark)
